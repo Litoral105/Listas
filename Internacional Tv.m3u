@@ -1,13 +1,22 @@
 #EXTM3U
-#EXTINF:0,PANAMERICANA
+
+#EXTINF:0,CINE REAL
 #EXTGRP:unsorted
-https://c.m3u8
-#EXTINF:0,ATV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/cfa6aad1-1979-4576-b6f6-dd7f1eff2464/5.m3u8
+
+#EXTINF:0,SABER MAS
 #EXTGRP:unsorted
-https://...m3u8
-#EXTINF:0,ATV +
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/f1eb9083-2816-4a7e-875c-b6d29b5cac44/4.m3u8
+
+#EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
-https://...m3u8
-#EXTINF:0,Nombre del canal
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/f1f1a21a-0903-47d1-ad4f-8e5cd2be088c/5.m3u8
+
+#EXTINF:0,TOP CINE
 #EXTGRP:unsorted
-colocar el enlace del canal https://...m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/8526d430-e775-4ff9-8cf8-bf870c5c7eff/5.m3u8
+
+#EXTINF:0,TOP CINE
+#EXTGRP:unsorted
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/8526d430-e775-4ff9-8cf8-bf870c5c7eff/5.m3u8
+
