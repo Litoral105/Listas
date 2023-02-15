@@ -16,7 +16,51 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/
 #EXTGRP:unsorted
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/8526d430-e775-4ff9-8cf8-bf870c5c7eff/5.m3u8
 
-#EXTINF:0,TOP CINE
+#EXTINF:0,TU CINE
 #EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/8526d430-e775-4ff9-8cf8-bf870c5c7eff/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/154ec6d7-7bb3-44db-b895-3b64bd0af72e/4.m3u8 
+#EXTINF:0,CONECTA2
+#EXTGRP:unsorted
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_270.m3u8
+#EXTINF:0,PROYECTA TV
+#EXTGRP:unsorted
+https://servilive.com:3194/live/proyectatvlive.m3u8
+#EXTINF:0,Kids TV
+#EXTGRP:unsorted
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/58e76d14-96ae-4930-9641-7c7f79e5babf/1.m3u8
+#EXTINF:0,Cine Sureño
+#EXTGRP:unsorted
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/13690a93-0e6a-4841-a96a-2f5cfd193d90/4.m3u8
+#EXTINF:0,ORBITV
+#EXTGRP:unsorted
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
+#EXTINF:0,ORBITV
+#EXTGRP:unsorted
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
+#EXTINF:0,ACCION
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230213cflbcm7ac1m2ulmlk2bg/1280x720_3071200_0_f.m3u8
+#EXTINF:0,COMEDIA
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230213cflbb4gk3v0qdg5663og/1280x720_3071200_0_f.m3u8
+#EXTINF:0,ROMANCE
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230213cflbdm3e2i6ah1ndcdeg/1280x720_3071200_0_f.m3u8
+#EXTINF:0,TERROR
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230213cflbecp2e4n9mmuop570/1280x720_3071200_0_f.m3u8
+#EXTINF:0,FAMILIA
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230213cflbfosvgi6nkqpvie70/1280x720_3071200_0_f.m3u8
+#EXTINF:0,MEMORIAS TV
+#EXTGRP:unsorted
+https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
+#EXTINF:0,FRECUENCIA MUSICAL TV
+#EXTGRP:unsorted
+https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1467610655.m3u8
+
+
+
+
+
 
