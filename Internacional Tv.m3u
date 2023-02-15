@@ -58,9 +58,17 @@ https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 #EXTINF:0,FRECUENCIA MUSICAL TV
 #EXTGRP:unsorted
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1467610655.m3u8
-
-
-
-
+#EXTINF:0,CANAL 19 CINE VISION
+#EXTGRP:unsorted
+https://rctvhd.net:8081/cinevision19hd/tracks-v1a1/mono.m3u8
+#EXTINF:0,CANAL ANTIGUA
+#EXTGRP:unsorted
+https://streannlivefeedlatino.cachefly.net/Protected/sp=1;dirmatch=true;ip=181.66.150.68/e0b7ba6b826ba0bc9bc85537307d6c9ce1b47c87a0c9f5091abe3893155bfc75/feedlatino1/feedlatino1/chunks.m3u8
+#EXTINF:0,CANAL 12
+#EXTGRP:unsorted
+https://d3kk75blondskv.cloudfront.net/hls/canal12_160.m3u8
+#EXTINF:0,VTV
+#EXTGRP:unsorted
+https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 
 
