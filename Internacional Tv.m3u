@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:0,PANAMERICANA
+#EXTGRP:unsorted
+https://c.m3u8
+#EXTINF:0,ATV
+#EXTGRP:unsorted
+https://...m3u8
+#EXTINF:0,ATV +
+#EXTGRP:unsorted
+https://...m3u8
+#EXTINF:0,Nombre del canal
+#EXTGRP:unsorted
+colocar el enlace del canal https://...m3u8
