@@ -34,9 +34,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/1
 #EXTINF:0,ORBITV
 #EXTGRP:unsorted
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
-#EXTINF:0,ORBITV
-#EXTGRP:unsorted
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
 #EXTINF:0,ACCION
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230213cflbcm7ac1m2ulmlk2bg/1280x720_3071200_0_f.m3u8
