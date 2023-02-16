@@ -64,7 +64,9 @@ https://rctvhd.net:8081/cinevision19hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,VTV
 #EXTGRP:unsorted
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
-
+#EXTINF:0,FLASH
+#EXTGRP:unsorted
+https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 
 
 
