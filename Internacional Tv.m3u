@@ -73,3 +73,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/a404b7d5-63b7-
 #EXTINF:0,TOON GOGGLES
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230216cfnb7962knihiglergng/1280x720_3071200_0_f.m3u8
+#EXTINF:0,FLOU CINE
+#EXTGRP:unsorted
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/blur-cine/da1c7d3f-1a7f-4f87-9337-a8e7176ed117/1.m3u8
