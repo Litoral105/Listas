@@ -1,9 +1,6 @@
 #EXTINF:0,FLASH 
 #EXTGRP:unsorted
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/1eea4d64-0ec0-4a7a-83a9-a5d3ea9c3d79/5.m3u8
-#EXTINF:0,FLOU CINE
-#EXTGRP:unsorted
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/9498312b-1c09-422b-b3bf-10c5779dcea8/0.m3u8
 #EXTINF:0,CINE REAL
 #EXTGRP:unsorted
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/7f6836bd-55cc-4f55-84c6-8ab70075a171/5.m3u8
