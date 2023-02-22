@@ -76,3 +76,24 @@ https://stream.ads.ottera.tv/cl/230216cfnb7962knihiglergng/1280x720_3071200_0_f.
 #EXTINF:0,EURO NEWS
 #EXTGRP:unsorted
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-espaol/d050f360-4d6a-4058-8c4d-be69f53db1ff/0.m3u8 
+#EXTINF:0,Canal 17 TV Nosara
+#EXTGRP:unsorted
+https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
+#EXTINF:0,CANAL 4 COLASAL
+#EXTGRP:unsorted
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1875413081.m3u8
+#EXTINF:0,CBTV
+#EXTGRP:unsorted
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+#EXTINF:0, TELESISTEMA
+#EXTGRP:unsorted
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
+#EXTINF:0,CANAL VENUS ( Musica)
+#EXTGRP:unsorted
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
+#EXTINF:0,CANAL ACS NETWORK  
+#EXTGRP:unsorted
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+#EXTINF:0,RETRO MUSIC
+#EXTGRP:unsorted
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w337589312_b750000.m3u8
