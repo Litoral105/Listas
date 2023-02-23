@@ -34,6 +34,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:0,Cine Sureño
 #EXTGRP:unsorted
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/7240fcdf-6cb8-4f08-ba45-c05f2a11aa31/4.m3u8
+#EXTINF:0,CANAL ACS NETWORK  
+#EXTGRP:unsorted
+https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:0,ORBITV
 #EXTGRP:unsorted
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
@@ -94,3 +97,6 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:0,RETRO MUSIC
 #EXTGRP:unsorted
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w337589312_b750000.m3u8
+#EXTINF:0,MUSICA DEL RECUERDO
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
