@@ -11,12 +11,15 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/fbc
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/f1f1a21a-0903-47d1-ad4f-8e5cd2be088c/5.m3u8
-#EXTINF:0,TOP CINE
+#EXTINF:0,TOP CINE 
 #EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/59b6fa76-c8f7-456c-a562-f5779f73cb41/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/a38fe126-2e0e-4f00-829d-180d9907d291/4.m3u8
 #EXTINF:0,TU CINE
 #EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/316e77ca-2de1-4fbb-80b9-501e792e12d4/5.m3u8
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/10b382ef-e764-4ac0-a90a-880abe998315/5.m3u8 
+#EXTINF:0,Cine Sureño
+#EXTGRP:unsorted
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/7240fcdf-6cb8-4f08-ba45-c05f2a11aa31/4.m3u8
 #EXTINF:0, KIDS TV
 #EXTGRP:unsorted
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/47699224-142c-4045-93f5-9e8122850fd8/2.m3u8
@@ -29,12 +32,6 @@ https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:0,CINE CLUB
 #EXTGRP:unsorted
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:0,Kids TV
-#EXTGRP:unsorted
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/58e76d14-96ae-4930-9641-7c7f79e5babf/1.m3u8
-#EXTINF:0,Cine Sureño
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/7240fcdf-6cb8-4f08-ba45-c05f2a11aa31/4.m3u8
 #EXTINF:0,CANAL ACS NETWORK  
 #EXTGRP:unsorted
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
