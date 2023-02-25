@@ -59,9 +59,6 @@ https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
 #EXTINF:0,FRECUENCIA MUSICAL TV
 #EXTGRP:unsorted
 https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1467610655.m3u8
-#EXTINF:0,CANAL 19 CINE VISION
-#EXTGRP:unsorted
-https://rctvhd.net:8081/cinevision19hd/tracks-v1a1/mono.m3u8
 #EXTINF:0,VTV
 #EXTGRP:unsorted
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
@@ -80,15 +77,6 @@ https://stream.ads.ottera.tv/cl/230216cfnb7962knihiglergng/1280x720_3071200_0_f.
 #EXTINF:0,Canal 17 TV Nosara
 #EXTGRP:unsorted
 https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
-#EXTINF:0,CANAL 4 COLASAL
-#EXTGRP:unsorted
-https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1875413081.m3u8
-#EXTINF:0,CBTV
-#EXTGRP:unsorted
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
-#EXTINF:0, TELESISTEMA
-#EXTGRP:unsorted
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
 #EXTINF:0,CANAL VENUS ( Musica)
 #EXTGRP:unsorted
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
