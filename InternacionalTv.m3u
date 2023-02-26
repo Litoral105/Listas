@@ -43,13 +43,13 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
 https://stream.ads.ottera.tv/cl/230213cflbcm7ac1m2ulmlk2bg/1280x720_3071200_0_f.m3u8
 #EXTINF:0,COMEDIA
 #EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230213cflbb4gk3v0qdg5663og/1280x720_3071200_0_f.m3u8
-#EXTINF:0,TERROR
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230213cflbecp2e4n9mmuop570/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/230225cft9v605bmvk8t8kiat0/1280x720_3071200_0_f.m3u8
 #EXTINF:0,FAMILIA
 #EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230213cflbfosvgi6nkqpvie70/1280x720_3071200_0_f.m3u8
+https://stream.ads.ottera.tv/cl/230225cfta0edescq2tlmm75d0/1280x720_3071200_0_f.m3u8
+#EXTINF:0,COMPETENCIA
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230225cft9tri6hvolr1a6ladg/1280x720_3071200_0_f.m3u8
 #EXTINF:0,MEMORIAS TV
 #EXTGRP:unsorted
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
@@ -64,10 +64,10 @@ https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/5f5caf73-2479-46e4-aabd-a53b987f1a48/5.m3u8 
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/935083fd-4887-4a77-9b0f-af97f65734fd/5.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/bb39b70e-e9df-4422-9be9-affe2e7e5008/3.m3u8
 #EXTINF:0,SABER MAS
 #EXTGRP:unsorted
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/a404b7d5-63b7-4a7d-911e-5ec142a406e1/5.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/da58a880-f376-456b-919c-3464e0f77dc9/5.m3u8  
 #EXTINF:0,TOON GOGGLES
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230216cfnb7962knihiglergng/1280x720_3071200_0_f.m3u8
@@ -86,3 +86,9 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w337589312_b750
 #EXTINF:0,Oldies Hits
 #EXTGRP:unsorted
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,CANAL VENUS ( Musica)
+#EXTGRP:unsorted
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
+#EXTINF:0,CANAL VENUS ( Musica)
+#EXTGRP:unsorted
+https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
