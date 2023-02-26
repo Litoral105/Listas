@@ -86,9 +86,12 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w337589312_b750
 #EXTINF:0,Oldies Hits
 #EXTGRP:unsorted
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
-#EXTINF:0,CANAL VENUS ( Musica)
+#EXTINF:0,CANAL X TV PERU
 #EXTGRP:unsorted
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
-#EXTINF:0,CANAL VENUS ( Musica)
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:0,ATM HD
 #EXTGRP:unsorted
-https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
+https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,AMERICA TEVE
+#EXTGRP:unsorted
+https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1130895351.m3u8
