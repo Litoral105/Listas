@@ -92,6 +92,36 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:0,ATM HD
 #EXTGRP:unsorted
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
-#EXTINF:0,AMERICA TEVE
+#EXTINF:0,CINEMA
 #EXTGRP:unsorted
-https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1130895351.m3u8
+https://cnm-ctm-ro-roku.otteravision.com/cnm/ctm_ro/ctm_ro_english.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
+#EXTINF:0,Oldies Hits
+#EXTGRP:unsorted
+https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
