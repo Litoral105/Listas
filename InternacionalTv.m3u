@@ -125,3 +125,51 @@ https://stream.ads.ottera.tv/cl/230224cfskbcje2i60sjl7h880/1280x720_3071200_0_f.
 #EXTINF:0,FLOW CARIBE
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230224cfskfngpg57uvkht2rk0/1280x720_2300000_0_f.m3u8
+#EXTINF:0,HAZ CLIC
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfskl9descq2tlmkvob0/1280x720_2300000_0_f.m3u8
+#EXTINF:0,MUNDO PEQUEÑO
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfs062hpnj1sq312tsdg/1920x1080_2900000_5_f.m3u8
+#EXTINF:0,PLANETA DE AVENTURAS
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfskrrkrac105fgve0m0/1280x720_2300000_0_f.m3u8
+#EXTINF:0,TOON GOOGLE
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfskun64f66cpg07nvag/1280x720_2300000_0_f.m3u8
+#EXTINF:0,MOONBUG KIDS
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230225cfsl18016jb5c05gckkg/1920x1080_2900000_5_f.m3u8
+#EXTINF:0,AMOR PARA TODOS
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfrvt9raqhf9g4n1emsg/854x480_550000_3_f.m3u8
+#EXTINF:0,RITMOS INOLVIDABLES
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfskd03aqhf9g4n2g5o0/1280x720_2300000_0_f.m3u8 
+#EXTINF:0,CINE KIDS
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfskebjlbchavkvq4okg/1920x1080_2900000_0_f.m3u8 
+#EXTINF:0,TASTEMADE  
+#EXTGRP:unsorted
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-es16intl-canelatv/3779721a-7642-4df8-a564-9daf6b570821/2.m3u8 
+#EXTINF:0,ESTRELLA TV
+#EXTGRP:unsorted
+https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8 
+#EXTINF:0,ESTRELLA GAME
+#EXTGRP:unsorted
+https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0, Moonbug KidsL
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfs08hqa1r1n9l8odj9g/1920x1080_2900000_5_f.m3u8
+#EXTINF:0,POP PEGAJOSO
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230224cfshojmm618hro83jsng/854x480_550000_3_f.m3u8
+#EXTINF:0,SIN TV
+#EXTGRP:unsorted
+https://inliveserver.com:1936/19004/19004/chunklist_w563972381.m3u8
+#EXTINF:0,PRESENCIA TV
+#EXTGRP:unsorted
+https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
+#EXTINF:0,COMBATE GLOBAL
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230223cfrvggg5s76kst8gpb50/1280x720_2300000_0_f.m3u8
