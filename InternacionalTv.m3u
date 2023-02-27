@@ -23,9 +23,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/f
 #EXTINF:0, KIDS TV
 #EXTGRP:unsorted
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/fd782c10-34de-4fa9-8e26-49922f9bdbae/2.m3u8
-#EXTINF:0,CONECTA2
-#EXTGRP:unsorted
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_270.m3u8
 #EXTINF:0,PROYECTA TV
 #EXTGRP:unsorted
 https://servilive.com:3194/live/proyectatvlive.m3u8
