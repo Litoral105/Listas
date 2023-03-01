@@ -179,3 +179,36 @@ https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01
 #EXTINF:0,TDI Colômbia
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1267
+#EXTINF:0,Movie Fe
+#EXTGRP:unsorted
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2084540124.m3u8 
+#EXTINF:0,KANNA STATION 
+#EXTGRP:unsorted
+https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
+#EXTINF:0,DREIKO TV
+#EXTGRP:unsorted
+https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
+#EXTINF:0, MAGIC KIDS
+#EXTGRP:unsorted
+https://tuvideoonline.com.ar:3937/stream/play.m3u8
+#EXTINF:0,XTV
+#EXTGRP:unsorted
+https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+#EXTINF:0,TIGUERITOS
+#EXTGRP:unsorted
+https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
+#EXTINF:0,MONI TV 
+#EXTGRP:unsorted
+https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
+#EXTINF:0,G
+#EXTGRP:unsorted
+http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
+#EXTINF:0,DIBUJO
+#EXTGRP:unsorted
+http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,PAKA PAKA
+#EXTGRP:unsorted
+http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:0,GALICIA TV HD
+#EXTGRP:unsorted
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
