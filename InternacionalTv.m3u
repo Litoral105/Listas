@@ -86,6 +86,9 @@ https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
 #EXTINF:0,ATM HD
 #EXTGRP:unsorted
 https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,CANELA TV
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230302cg0gonvaim7bfle2g4gg/1280x720_3071200_0_f.m3u8
 #EXTINF:0,CINEMA
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230302cg0gonvaim7bfle2g4gg/1280x720_3071200_0_f.m3u8 
