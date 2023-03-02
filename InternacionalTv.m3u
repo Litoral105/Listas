@@ -209,12 +209,9 @@ http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:0,DIBUJO
 #EXTGRP:unsorted
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,PAKA PAKA
+#EXTINF:0,TELE MADRID
 #EXTGRP:unsorted
-http://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:0,GALICIA TV HD
-#EXTGRP:unsorted
-http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 #EXTINF:0,TELESISTEMA
 #EXTGRP:unsorted
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
