@@ -188,9 +188,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1267
 #EXTINF:0,Movie Fe
 #EXTGRP:unsorted
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2084540124.m3u8 
-#EXTINF:0,KANNA STATION 
-#EXTGRP:unsorted
-https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:0,DREIKO TV
 #EXTGRP:unsorted
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
