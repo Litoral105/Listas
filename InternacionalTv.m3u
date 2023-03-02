@@ -76,7 +76,7 @@ https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3
 https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 #EXTINF:0,RETRO MUSIC
 #EXTGRP:unsorted
-https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w337589312_b750000.m3u8
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1921662267_b750000.m3u8
 #EXTINF:0,Oldies Hits
 #EXTGRP:unsorted
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
@@ -110,6 +110,9 @@ https://stream.ads.ottera.tv/cl/230224cfsk5a2a57gmvh1orv70/1280x720_2300000_0_f.
 #EXTINF:0,NOVELISIMA
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230224cfs023h77uq8t0vm92kg/854x480_1355200_2_f.m3u8
+#EXTINF:0,CINE ROMANTICO 
+#EXTGRP:unsorted
+https://stream.ads.ottera.tv/cl/230302cg0hg3f8vhjcmrpuumn0/1280x720_2300000_0_f.m3u8
 #EXTINF:0,KIDS
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230223cfrvq92a1r1n9l8ocl5g/1920x1080_2900000_5_f.m3u8 
@@ -139,7 +142,7 @@ https://stream.ads.ottera.tv/cl/230224cfskun64f66cpg07nvag/1280x720_2300000_0_f.
 https://stream.ads.ottera.tv/cl/230225cfsl18016jb5c05gckkg/1920x1080_2900000_5_f.m3u8
 #EXTINF:0,AMOR PARA TODOS
 #EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230227cfuh5b3s1q5h3oqoic9g/1280x720_2300000_0_f.m3u8
+https://stream.ads.ottera.tv/cl/230302cg0hk5c2g2c9ajn6fk40/1280x720_1400000_1_f.m3u8 
 #EXTINF:0,RITMOS INOLVIDABLES
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230224cfskd03aqhf9g4n2g5o0/1280x720_2300000_0_f.m3u8 
