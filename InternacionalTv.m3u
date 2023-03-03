@@ -221,6 +221,9 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:0,TELE SUR
 #EXTGRP:unsorted
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0,PROMAR TV
+#EXTGRP:unsorted
+https://vcp.myplaytv.com/promar/promar/chunklist_w1036375668.m3u8
 #EXTINF:0,BUIN SOMOS TODOS
 #EXTGRP:unsorted
 https://bst.buin.cl/0.m3u8 
