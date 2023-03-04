@@ -242,3 +242,12 @@ https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
 #EXTINF:0,Panavision Tv
 #EXTGRP:unsorted
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1752131907.m3u8
+#EXTINF:0,PORTALFOXMIX
+#EXTGRP:unsorted
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w621819274.m3u8
+#EXTINF:0,RCK TV
+#EXTGRP:unsorted
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/chunklist_w608200789.m3u8
+#EXTINF:0,EXTREMA KID
+#EXTGRP:unsorted
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w824026290.m3u8
