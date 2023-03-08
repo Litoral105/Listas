@@ -1,1 +1,31 @@
-
+#EXTM3U
+#EXTINF:0,1HD Music
+#EXTGRP:unsorted
+https://sc.id-tv.kz/1hd.m3u8    
+#EXTINF:0,cartoonnetwork
+#EXTGRP:unsorted
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:0,Galáctica TV (Peru)
+#EXTGRP:unsorted
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:0,Oxigeno TV
+#EXTGRP:unsorted
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
+#EXTINF:0,PlanetaTV Music
+#EXTGRP:unsorted
+https://scl.edge.grupoz.cl/music/live/music.m3u8
+#EXTINF:0,STV El Canal Familiar
+#EXTGRP:unsorted
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8 
+#EXTINF:0,Supertoons TV
+#EXTGRP:unsorted
+https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Tele Caribe
+#EXTGRP:unsorted
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+#EXTINF:0,"Music",Vevo Latino
+#EXTGRP:unsorted
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:0,VM Latino
+#EXTGRP:unsorted
+https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
