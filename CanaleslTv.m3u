@@ -29,3 +29,30 @@ https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/
 #EXTINF:0,VM Latino
 #EXTGRP:unsorted
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
+#EXTINF:0,VariedT V
+#EXTGRP:unsorted
+https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8 
+#EXTINF:0,TV Costa
+#EXTGRP:unsorted
+https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
+#EXTINF:0,PlanetaTV Kids
+#EXTGRP:unsorted
+https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
+#EXTINF:0, Rakuten TV 
+#EXTGRP:unsorted
+http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0,Rakuten TV Comedia  
+#EXTGRP:unsorted
+http://rakuten-comedymovies-2-es.samsung.wurl.tv/playlist.m3u8 
+#EXTINF:0,interalmeria tv
+#EXTGRP:unsorted
+http://interalmeria.tv/directo/live.m3u8 
+#EXTINF:0, Panc TV
+#EXTGRP:unsorted
+https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
+#EXTINF:0,Pop Nedia
+#EXTGRP:unsorted
+https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
+#EXTINF:0, Anove TV
+#EXTGRP:unsorted
+https://cloud.fastchannel.es/mic/manifiest/hls/anove/anove.m3u8 
