@@ -32,9 +32,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0,VariedT V
 #EXTGRP:unsorted
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8 
-#EXTINF:0,TV Costa
-#EXTGRP:unsorted
-https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:0,PlanetaTV Kids
 #EXTGRP:unsorted
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
