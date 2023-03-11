@@ -185,7 +185,7 @@ https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 #EXTINF:0, MAGIC KIDS
 #EXTGRP:unsorted
 https://tuvideoonline.com.ar:3937/stream/play.m3u8
-#EXTINF:0,XTV
+#EXTINF:0,TVC
 #EXTGRP:unsorted
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
 #EXTINF:0,TIGUERITOS
