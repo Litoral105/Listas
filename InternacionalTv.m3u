@@ -61,7 +61,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/5f5caf73-2479-46e
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-chiquilines-plex/bb39b70e-e9df-4422-9be9-affe2e7e5008/3.m3u8
 #EXTINF:0,SABER MAS
 #EXTGRP:unsorted
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-sabermas-plex/da58a880-f376-456b-919c-3464e0f77dc9/5.m3u8  
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/8e5210e1-3c5c-4e1c-851f-4c3bbcfd66cb/5.m3u8   
 #EXTINF:0,Canal 17 TV Nosara
 #EXTGRP:unsorted
 https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
