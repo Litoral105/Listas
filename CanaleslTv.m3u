@@ -50,9 +50,9 @@ https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
 #EXTINF:0,Pop Nedia
 #EXTGRP:unsorted
 https://v4.tustreaming.cl/poptv/tracks-v1a1/mono.m3u8
-#EXTINF:0, Panc TV
+#EXTINF:0, RETRO MAGICO
 #EXTGRP:unsorted
-https://video.streamtvradio.com:8443/uv096/uv096/playlist.m3u8
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8 
 #EXTINF:0, PequeradioTV
 #EXTGRP:unsorted
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8 
