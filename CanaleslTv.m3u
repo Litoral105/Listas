@@ -5,6 +5,9 @@ https://cm.hostlagarto.com:4445/hits360tv/hits360HD.myStream/chunks.m3u8
 #EXTINF:0,cartoonnetwork
 #EXTGRP:unsorted
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
+#EXTINF:0,Dreiko TV 
+#EXTGRP:unsorted
+https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
 #EXTINF:0,Galáctica TV (Peru)
 #EXTGRP:unsorted
 https://pacific.direcnode.com:3715/hybrid/play.m3u8
