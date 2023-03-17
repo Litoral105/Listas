@@ -81,66 +81,112 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:0, xabarin-tv
 #EXTGRP:unsorted
 https://infantil-crtvg.flumotion.com/chunks.m3u8
-#EXTINF:0,Tele Caribe
+#EXTINF:0,Music Top
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+http://live-edge01.telecentro.net.ar/live/musictop.smil/chunklist_w39236541_b2028000_sleng.m3u8
+#EXTINF:0,Telemax
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+#EXTINF:0,TEN Canal 10 
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0,DIOS TV KIDS
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+#EXTINF:0,Imagen Universal
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://imagenuniversaltv.net:3771/hybrid/play.m3u8
+#EXTINF:0,MULTIVISION
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://cdn2.streamgato.us:443/canalmultivision/canalmultivision/chunklist_w1983257499.m3u8
+#EXTINF:0,MEGA TV
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
+#EXTINF:0,NIM TV
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:0,BARBE TV
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
+#EXTINF:0,RETROPLAY TV
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://v4.tustreaming.cl:443/retroplaytv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Vallenato Internacional
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:0,Unicanal
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+http://45.55.127.106/live/unicanal_mid.m3u8
+#EXTINF:0,Latino Kids TV 
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w325220262.m3u8
+#EXTINF:0,NTV Animacion
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://marine2.miplay.cl/ntv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Nicoya TV
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w1741745563.m3u8
+#EXTINF:0,Telesur
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1566131278.m3u8
+#EXTINF:0,La 1 España 
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_360.m3u8 
+#EXTINF:0,La 2 España
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_720.m3u8
+#EXTINF:0,Cantina TV  Musica Colombia
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
-#EXTINF:0,Tele Caribe
+https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w57507660.m3u8
+#EXTINF:0,Conecta TV  Nusica Mexico
 #EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+https://stream8.mexiserver.com:1936/conectatv/conectatv/chunklist_w1183159152.m3u8
+#EXTINF:0,DJ Loncho TV
+#EXTGRP:unsorted
+https://srv5.zcast.com.br/djlonchtv/djlonchtv/chunklist_w1030109064.m3u8 
+#EXTINF:0,Oxigeno Network
+#EXTGRP:unsorted
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w585804255.m3u8
+#EXTINF:0,Pasión Ranchera
+#EXTGRP:unsorted
+https://tv.streaming-chile.com:1936/pasionranchera/pasionranchera/chunklist_w1413223333.m3u8
+#EXTINF:0,Portal FoxMix 
+#EXTGRP:unsorted
+https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1464042486.m3u8
+#EXTINF:0,Recuerdos Retro 
+#EXTGRP:unsorted
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w618387836.m3u8
+#EXTINF:0,ShowVen TV
+#EXTGRP:unsorted
+https://vcp.myplaytv.com/coll/coll/chunklist_w1640368172.m3u8 
+#EXTINF:0,Soy Plancha TV
+#EXTGRP:unsorted
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w1232703678.m3u8
+#EXTINF:0,TV PRIME Music 
+#EXTGRP:unsorted
+https://tv.clientetvstudio.net:3670/stream/play.m3u8
+#EXTINF:0, Urbano TV 
+#EXTGRP:unsorted
+https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/chunklist_w1727093359.m3u8
+#EXTINF:0VClassicTV
+#EXTGRP:unsorted
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w700827162.m3u8
+#EXTINF:0,VClassicTV Tropical
+#EXTGRP:unsorted
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1462056568.m3u8
+#EXTINF:0,Vintage Music
+#EXTGRP:unsorted
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w1783023473.m3u8
+#EXTINF:0,FMTV 1
+#EXTGRP:unsorted
+https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w426532267.m3u8 
+#EXTINF:0,CMT FLOW 
+#EXTGRP:unsorted
+https://stream-linkyprojects.linky.com.co/hls/cmt.m3u8 
+#EXTINF:0,CTV CAPRICHO 
+#EXTGRP:unsorted
+https://scl.edge.grupoz.cl/movie/live/chunklist_w2141255816.m3u8
+
 
 
 
