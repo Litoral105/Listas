@@ -8,9 +8,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/fbc
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
-#EXTINF:0, KIDS TV
-#EXTGRP:unsorted
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/e368ec20-c0f6-4065-9410-6684d0107c1d/2.m3u8
 #EXTINF:0,PROYECTA TV
 #EXTGRP:unsorted
 https://servilive.com:3194/live/proyectatvlive.m3u8
