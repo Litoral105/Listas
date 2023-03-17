@@ -7,16 +7,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distr
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/fbce9b2a-7324-4256-a932-692a412c0eaf/5.m3u8
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-distro/f1f1a21a-0903-47d1-ad4f-8e5cd2be088c/5.m3u8
-#EXTINF:0,TOP CINE 
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-topcinelatam-distro/791e8402-46ca-4a3f-907f-71195a480f68/5.m3u8
-#EXTINF:0,TU CINE
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-distro/a22389c3-e97c-44c5-8cee-e8b2090a0a62/5.m3u8   
-#EXTINF:0,Cine Sureño
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-distro/7cbc27e7-2556-4d3a-b774-6aaab4ccbb9c/5.m3u8
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:0, KIDS TV
 #EXTGRP:unsorted
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kids-tv-et/e368ec20-c0f6-4065-9410-6684d0107c1d/2.m3u8
