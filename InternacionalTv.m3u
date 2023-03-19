@@ -56,9 +56,6 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1921662267_b75
 #EXTINF:0,Oldies Hits
 #EXTGRP:unsorted
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
-#EXTINF:0,ATM HD
-#EXTGRP:unsorted
-https://v4.tustreaming.cl/atmtv/tracks-v1a1/mono.m3u8
 #EXTINF:0,CANELA TV
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230302cg0gonvaim7bfle2g4gg/1280x720_3071200_0_f.m3u8
@@ -158,6 +155,9 @@ https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01
 #EXTINF:0,Movie Fe
 #EXTGRP:unsorted
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2084540124.m3u8 
+#EXTINF:0,LIM
+#EXTGRP:unsorted
+https://live.limplay.ml/limtv.m3u8
 #EXTINF:0,DREIKO TV
 #EXTGRP:unsorted
 https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
