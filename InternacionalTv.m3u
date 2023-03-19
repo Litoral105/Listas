@@ -38,9 +38,6 @@ https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
-#EXTINF:0,SABER MAS
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/8e5210e1-3c5c-4e1c-851f-4c3bbcfd66cb/5.m3u8   
 #EXTINF:0,Canal 17 TV Nosara
 #EXTGRP:unsorted
 https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
