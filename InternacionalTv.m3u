@@ -2,6 +2,9 @@
 #EXTINF:0,CINE REAL
 #EXTGRP:unsorted
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/7f6836bd-55cc-4f55-84c6-8ab70075a171/5.m3u8
+#EXTINF:0,CHIQUILINES
+#EXTGRP:unsorted
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8 
 #EXTINF:0,PROYECTA TV
 #EXTGRP:unsorted
 https://servilive.com:3194/live/proyectatvlive.m3u8
