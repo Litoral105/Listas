@@ -2,21 +2,12 @@
 #EXTINF:0,CINE REAL
 #EXTGRP:unsorted
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distro/7f6836bd-55cc-4f55-84c6-8ab70075a171/5.m3u8
-#EXTINF:0,SABER MAS
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-distro/fbce9b2a-7324-4256-a932-692a412c0eaf/5.m3u8
-#EXTINF:0,CHIQUILINES
-#EXTGRP:unsorted
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:0,PROYECTA TV
 #EXTGRP:unsorted
 https://servilive.com:3194/live/proyectatvlive.m3u8
 #EXTINF:0,CINE CLUB
 #EXTGRP:unsorted
 https://servilive.com:3176/live/cineclublive.m3u8
-#EXTINF:0,ORBITV
-#EXTGRP:unsorted
-https://inliveserver.com:1936/19004/19004/chunklist_w989371519.m3u8
 #EXTINF:0,SIN TV
 #EXTGRP:unsorted
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
