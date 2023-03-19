@@ -1,0 +1,322 @@
+#EXTM3U
+#EXTINF:0,PANAMERICANA TV
+#EXTGRP:unsorted
+https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:0,ATV Perú
+#EXTGRP:unsorted
+https://dysmuyxh5vstv.cloudfront.net/hls/live.m3u8
+#EXTINF:0,ATV + Perú
+#EXTGRP:unsorted
+https://dysmuyxh5vstv.cloudfront.net/hls/atv2.m3u8
+#EXTINF:0,ATV Sur Perú
+#EXTGRP:unsorted
+https://atvsur.mediatiquestream.com/atv/8bcf2b35a573163055a95e18c0c35226.sdp/playlist.m3u8
+#EXTINF:0,Radio Nacional Tv
+#EXTGRP:unsorted
+https://cdnh8.iblups.com/hls/irtp.m3u8
+#EXTINF:0,TVPERÚ
+#EXTGRP:unsorted
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,TVPERÚ NOTICIAS
+#EXTGRP:unsorted
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0,TVPERÚ INTERNACIONAL
+#EXTGRP:unsorted
+https://cdnh74.iblups.com/hls/irtp.m3u8
+#EXTINF:0,IPe
+#EXTGRP:unsorted
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,CULTURA 24 TV
+#EXTGRP:unsorted
+http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3u8
+#EXTINF:0,LA ABEJA TV
+#EXTGRP:unsorted
+https://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
+#EXTINF:0,EXITOSA
+#EXTGRP:unsorted
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:0,KARIBEÑA TV
+#EXTGRP:unsorted
+https://cu.onliv3.com/livevd/user1.m3u8
+#EXTINF:0,USIL TV
+#EXTGRP:unsorted
+https://per01-lim01.servidor.stream/usiltv/index.m3u8
+#EXTINF:0,NATIVA
+#EXTGRP:unsorted
+https://oneplay.iptvperu.tv:1936/static/nativa1.stream/playlist.m3u8
+#EXTINF:0,ODTV
+#EXTGRP:unsorted
+https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+#EXTINF:0,ODTV 2
+#EXTGRP:unsorted
+https://v4.tustreaming.cl/odtv2/index.m3u8
+#EXTINF:0,ODTV 3
+#EXTGRP:unsorted
+https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8
+#EXTINF:0,WILLAX TV
+#EXTGRP:unsorted
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x7x4dgx
+#EXTINF:0,PBO
+#EXTGRP:unsorted
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtube.com/channel/UCgR0st4ZLABi-LQcWNu3wnQ/live
+#EXTINF:0,VISIONTV Noticias Perú
+#EXTGRP:unsorted
+https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
+#EXTINF:0,VISIONTV Música Perú
+#EXTGRP:unsorted
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8
+#EXTINF:0,SOL STEREO TV
+#EXTGRP:unsorted
+https://stmv.panel.grupolimalive.com/solstereotv/solstereotv/playlist.m3u8
+#EXTINF:0,CREOTV PERU
+#EXTGRP:unsorted
+https://srv1.mediastreamperu.com/creotv/creotv/playlist.m3u8
+#EXTINF:0,VISION SUR TV
+#EXTGRP:unsorted
+https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+#EXTINF:0,FUEGO TV
+#EXTGRP:unsorted
+https://stmv.panel.grupolimalive.com/fuegoweb/fuegoweb/playlist.m3u8
+#EXTINF:0,SUPER CANAL
+#EXTGRP:unsorted
+https://live.obslivestream.com/supercanal/tracks-v3a1/mono.m3u8
+#EXTINF:0,CHINCHA TV
+#EXTGRP:unsorted
+https://tvdatta.com:3548/live/chinchatvlive.m3u8
+#EXTINF:0,AUTENTICA TELEVISION
+#EXTGRP:unsorted
+https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:0,LA RIBEREÑA TV
+#EXTGRP:unsorted
+https://cloudvideo.servers10.com:8081/8070/index.m3u8
+#EXTINF:0,CONTROVERSIA TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/controversiatv/index.m3u8
+#EXTINF:0,PRIMAVERA TELEVISION CANAL 15
+#EXTGRP:unsorted
+https://stmv.streamingvip.click/primaveratv/primaveratv/playlist.m3u8
+#EXTINF:0,CENTRAL TV
+#EXTGRP:unsorted
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist
+#EXTINF:0,CENTRAL TV CHOSICA
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0,HUANUCO EN VIVO TV
+#EXTGRP:unsorted
+https://stmv.panel.grupolimalive.com/antonio/antonio/playlist.m3u8
+#EXTINF:0,CANAL 8 CATACAOS TV
+#EXTGRP:unsorted
+https://tvdatta.com:3838/live/canalcatacaoslive.m3u8
+#EXTINF:0,RADIO LA VOZ TACNA
+#EXTGRP:unsorted
+https://inliveserver.com:1936/9512/9512/playlist.m3u8
+#EXTINF:0,URANIO TV YURIMAGUAS
+#EXTGRP:unsorted
+https://live.obslivestream.com/uraniotv/index.m3u8
+#EXTINF:0,TUMPIS TV
+#EXTGRP:unsorted
+https://servilive.com:3531/stream/play.m3u8
+#EXTINF:0,CNC IQUITOS
+#EXTGRP:unsorted
+https://vdo.panelstreaming.live:3859/live/cncdigitallive.m3u8
+#EXTINF:0,RTV NOR SELVA
+#EXTGRP:unsorted
+https://live.obslivestream.com/norselvatv/index.m3u8
+#EXTINF:0,RADIO El PUEBLO TV
+#EXTGRP:unsorted
+https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8
+#EXTINF:0,CR TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/crtvmux/index.m3u8
+#EXTINF:0,GENIOS TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/geniostvmux/index.m3u8
+#EXTINF:0,PLANETA TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:0,VIA ALTO MAYO TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:0,TELECOLOR TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/telecolormux/index.m3u8
+#EXTINF:0,MAS 1 TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/mas1/tracks-v1a1/mono.m3u8
+#EXTINF:0,VZ TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/vztv/tracks-v3a1/mono.m3u8
+#EXTINF:0,W TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/wtv/tracks-v3a1/mono.m3u8
+#EXTINF:0,MAYO TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/mayotv/tracks-v3a1/mono.m3u8
+#EXTINF:0,RADIO SELVA TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/selvatv/tracks-v3a1/mono.m3u8
+#EXTINF:0,RADIO MIEL TELEVISION
+#EXTGRP:unsorted
+https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+#EXTINF:0,OK TV
+#EXTGRP:unsorted
+https://stream.plixitv.live/oktv/oktv/playlist.m3u8
+#EXTINF:0,TV5
+#EXTGRP:unsorted
+https://live.obslivestream.com/tv5/tracks-v3a1/mono.m3u8
+#EXTINF:0,CANAL X TV
+#EXTGRP:unsorted
+https://vdo.grupolimalive.com:3087/live/xtvlive.m3u8
+#EXTINF:0,TURBOMIX TV
+#EXTGRP:unsorted
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
+#EXTINF:0,RADIO SAN BORJA Tv
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:0,ONDA DIGITAL
+#EXTGRP:unsorted
+https://tv.ondadigital.pe:1936/ondatv2/ondatv2/playlist.m3u8
+#EXTINF:0,TOP LATINO
+#EXTGRP:unsorted
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+#EXTINF:0,RETROPOLIS
+#EXTGRP:unsorted
+https://stream.mux.com/
+#EXTINF:0,RETRO PLUS TV
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:0,RETRO PLUS 2
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:0,RETRO PLUS 3
+#EXTGRP:unsorted
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+#EXTINF:0,VAMISA TV
+#EXTGRP:unsorted
+https://inliveserver.com:1936/9506/9506/playlist.m3u8
+#EXTINF:0,HOSTREAM PERÚ TV
+#EXTGRP:unsorted
+https://media1.cdnlayer.biz:1936/8004/8004/playlist.m3u8
+#EXTINF:0,LOTPLUS TV
+#EXTGRP:unsorted
+https://stmv.panel.grupolimalive.com/lotplustv/lotplustv/playlist.m3u8
+#EXTINF:0,ASIRI TV
+#EXTGRP:unsorted
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:0,RCR TV
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8
+#EXTINF:0,RN NOTICIAS TV
+#EXTGRP:unsorted
+https://multimedia.tmcreativos.com:1936/wsgzmqbxse/wsgzmqbxse/playlist.m3u8
+#EXTINF:0,VIA TELEVISION
+#EXTGRP:unsorted
+https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
+#EXTINF:0,CTC TV
+#EXTGRP:unsorted
+http://livestreamingperu.com:1935/ctctv/ctctv/chunklist_w2100604927.m3u8
+#EXTINF:0,DOBLE C TELEVISION
+#EXTGRP:unsorted
+https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
+#EXTINF:0,INKA TV
+#EXTGRP:unsorted
+https://tv.portalexpress.es:3175/hybrid/play.m3u8
+#EXTINF:0,AGRO TV Apurimac
+#EXTGRP:unsorted
+https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+#EXTINF:0,TELESUR ILO
+#EXTGRP:unsorted
+https://1667517699.rsc.cdn77.org/hls/ilo.m3u8
+#EXTINF:0,TELESUR MOQUEGUA
+#EXTGRP:unsorted
+https://1667517699.rsc.cdn77.org/hls/moquegua.m3u8
+#EXTINF:0,TELESUR CAMANA
+#EXTGRP:unsorted
+https://1667517699.rsc.cdn77.org/hls/camana.m3u8
+#EXTINF:0,TELESUR TACNA
+#EXTGRP:unsorted
+https://1667517699.rsc.cdn77.org/hls/tacna.m3u8
+#EXTINF:0,MASTER TELEVISION TARAPOTO
+#EXTGRP:unsorted
+https://tv.oyotunstream.com:1936/master/master/playlist.m3u8
+#EXTINF:0,MEGA TV Arequipa
+#EXTGRP:unsorted
+https://hls.servidor.stream/storage/megatv.m3u8
+#EXTINF:0,MEGA TV JAEN
+#EXTGRP:unsorted
+https://tv.portalexpress.es:3399/live/megatvlive.m3u8
+#EXTINF:0,HECHICERA TV
+#EXTGRP:unsorted
+https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3u8
+#EXTINF:0,ANTARES TV
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
+#EXTINF:0,RTV TOTAL
+#EXTGRP:unsorted
+https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
+#EXTINF:0,ORIENTAL TV 21
+#EXTGRP:unsorted
+https://stmv.panel.grupolimalive.com/orientaltv/orientaltv/playlist.m3u8
+#EXTINF:0,TELEVISIÓN TARAPOTO
+#EXTGRP:unsorted
+https://ott1.hdlatam.tv/live_abr/webtvTarapotoPe/playlist.m3u8
+#EXTINF:0,AMAZONAS TV
+#EXTGRP:unsorted
+https://vdo.grupolimalive.com:3327/multi_live/play_720.m3u8
+#EXTINF:0,SAN JUANERA TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/sanjuanera/index.m3u8
+#EXTINF:0,TROPICAL TV
+#EXTGRP:unsorted
+https://tv.oyotunstream.com:1936/tropicaltv/tropicaltv/playlist.m3u8
+#EXTINF:0,BHTV
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0,TV COSMOS Perú
+#EXTGRP:unsorted
+https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
+#EXTINF:0,SOL TV
+#EXTGRP:unsorted
+https://livefocamundo.com:8081/soltv/index.m3u8
+#EXTINF:0,Best Cable Peru
+#EXTGRP:unsorted
+https://ca2.inka.net.pe/bestcable/index.m3u8
+#EXTINF:0,Best Cable Sports
+#EXTGRP:unsorted
+https://ca2.inka.net.pe/bestcablesports/index.m3u8
+#EXTINF:0,Best Cable Music Perú
+#EXTGRP:unsorted
+https://ca2.inka.net.pe/bestcablemusic/index.m3u8
+#EXTINF:0,+ Cumbia Tv
+#EXTGRP:unsorted
+https://ca2.inka.net.pe/mascumbiatvonline/index.m3u8
+#EXTINF:0,Hatun Tv
+#EXTGRP:unsorted
+https://ca2.inka.net.pe/bestcablehatuntv/index.m3u8
+#EXTINF:0,GALACTICA TV
+#EXTGRP:unsorted
+https://pacific.direcnode.com:3715/hybrid/play.m3u8
+#EXTINF:0,CONGRESO TV
+#EXTGRP:unsorted
+http://stream.congreso.gob.pe/_hls/playlist.m3u8
+#EXTINF:0,CONTACTO TV
+#EXTGRP:unsorted
+https://live.obslivestream.com/cdeportivo/index.m3u8
+#EXTINF:0,OVACIÓN TV
+#EXTGRP:unsorted
+https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:0,MONTERRICO TV
+#EXTGRP:unsorted
+https://www.opencaster.com/resources/hls_stream/hipodromojcp1.m3u8
+#EXTINF:0,CTNI TV
+#EXTGRP:unsorted
+https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
+#EXTINF:0,JN19
+#EXTGRP:unsorted
+https://servilive.com:3149/live/jn19tvlive.m3u8
+#EXTINF:0,PACIFICO
+#EXTGRP:unsorted
+https://5949aa132c8fb.streamlock.net:554/iptvpacificotv/livepacificotvtv/playlist.m3u8
+#EXTINF:0,PAX
+#EXTGRP:unsorted
+https://d1oxkaep074koq.cloudfront.net/out/v1/6657a374459f4821b404e16161c98588/playlist.m3u8
