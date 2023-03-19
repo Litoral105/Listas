@@ -35,9 +35,6 @@ https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1467610655.m3u8
 #EXTINF:0,VTV
 #EXTGRP:unsorted
 https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
-#EXTINF:0,FLASH
-#EXTGRP:unsorted
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/olympusat-flash-plex/5f5caf73-2479-46e4-aabd-a53b987f1a48/5.m3u8 
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
