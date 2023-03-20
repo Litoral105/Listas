@@ -23,9 +23,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:0,Supertoons TV
 #EXTGRP:unsorted
 https://kedoo-supertoonstv-2-es.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0,Tele Caribe
-#EXTGRP:unsorted
-https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
 #EXTINF:0,"Music",Vevo Latino
 #EXTGRP:unsorted
 https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
