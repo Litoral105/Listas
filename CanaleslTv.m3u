@@ -164,6 +164,8 @@ https://seo.tv.bo/tv/w6SEO.m3u8
 #EXTINF:0,SEO TV NOVELAS
 #EXTGRP:unsorted
 https://seo.tv.bo/tv/w3NVLS.m3u8 
-
+#EXTINF:0,SEO TV PELICULAS
+#EXTGRP:unsorted
+https://seo.tv.bo/tv/w4PE.m3u8 
 
 
