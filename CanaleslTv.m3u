@@ -62,9 +62,6 @@ http://live-edge01.telecentro.net.ar/live/musictop.smil/chunklist_w39236541_b202
 #EXTINF:0,Telemax
 #EXTGRP:unsorted
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
-#EXTINF:0,TEN Canal 10 
-#EXTGRP:unsorted
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 #EXTINF:0,DIOS TV KIDS
 #EXTGRP:unsorted
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
