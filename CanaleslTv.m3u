@@ -104,9 +104,6 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/chunklist_w57507660.m3u8
 #EXTINF:0,Conecta TV  Nusica Mexico
 #EXTGRP:unsorted
 https://stream8.mexiserver.com:1936/conectatv/conectatv/chunklist_w1183159152.m3u8
-#EXTINF:0,DJ Loncho TV
-#EXTGRP:unsorted
-https://srv5.zcast.com.br/djlonchtv/djlonchtv/chunklist_w1030109064.m3u8 
 #EXTINF:0,Oxigeno Network
 #EXTGRP:unsorted
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w585804255.m3u8
@@ -119,9 +116,6 @@ https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1464042486.m3u8
 #EXTINF:0,Recuerdos Retro 
 #EXTGRP:unsorted
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w618387836.m3u8
-#EXTINF:0,ShowVen TV
-#EXTGRP:unsorted
-https://vcp.myplaytv.com/coll/coll/chunklist_w1640368172.m3u8 
 #EXTINF:0,Soy Plancha TV
 #EXTGRP:unsorted
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/chunklist_w1232703678.m3u8
