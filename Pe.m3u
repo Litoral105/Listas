@@ -37,10 +37,10 @@ http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/playlist.m3
 https://cdnhd.iblups.com/hls/F87ppt1YAT.m3u8
 #EXTINF:0,EXITOSA
 #EXTGRP:unsorted
-https://cu.onliv3.com/livevd1/user2.m3u8
+https://cpliv3.onliv3.com:19360/exitosatv/exitosatv.m3u8
 #EXTINF:0,KARIBEÑA TV
 #EXTGRP:unsorted
-https://cu.onliv3.com/livevd/user1.m3u8
+https://cpliv3.onliv3.com:19360/karibenatv/karibenatv.m3u8
 #EXTINF:0,USIL TV
 #EXTGRP:unsorted
 https://per01-lim01.servidor.stream/usiltv/index.m3u8
