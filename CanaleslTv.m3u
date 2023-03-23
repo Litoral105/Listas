@@ -107,9 +107,6 @@ https://stream8.mexiserver.com:1936/conectatv/conectatv/chunklist_w1183159152.m3
 #EXTINF:0,Oxigeno Network
 #EXTGRP:unsorted
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w585804255.m3u8
-#EXTINF:0,Pinto tv
-#EXTGRP:unsorted
-https://tv.streaming-chile.com:1936/pasionranchera/pasionranchera/chunklist_w1413223333.m3u8
 #EXTINF:0,Portal FoxMix 
 #EXTGRP:unsorted
 https://video.streamingchilenos.cl:1936/8026/8026/chunklist_w1464042486.m3u8
