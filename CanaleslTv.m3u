@@ -149,5 +149,13 @@ https://seo.tv.bo/tv/q2KIDS.m3u8
 #EXTINF:0,CINE RAMA
 #EXTGRP:unsorted
 https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1517585916.m3u8
-
+#EXTINF:0,Tvs
+#EXTGRP:unsorted
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:0,Cariñosa TV
+#EXTGRP:unsorted
+https://cdn.streamhispanatv.net:3110/live/carinosatvlive.m3u8
+#EXTINF:0,Unitel tv
+#EXTGRP:unsorted
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZS3sdN_Wj5e-9EahVJFZBnCkJsMNhZ4t0JK22LL6zjr5)/dm/3/x7vsezg/d/live-0.m3u8 
 
