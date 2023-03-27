@@ -176,9 +176,6 @@ http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0,TELE MADRID
 #EXTGRP:unsorted
 https://eventos2-telemadrid-live-hls.secure2.footprint.net/egress/chandler/telemadrid/eventos_1/bitrate_1.m3u8
-#EXTINF:0,TELESISTEMA
-#EXTGRP:unsorted
-https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:0,RT
 #EXTGRP:unsorted
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
