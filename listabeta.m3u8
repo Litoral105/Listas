@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0,-PERÚ-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="PE" tvg-language="Spanish" tvg-logo="" tvg-url="" group-title="",DEMO TV
+https://XXX.XXX.XXX.XXX:X000/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="" tvg-url="" group-title="",DEMO TV
