@@ -65,9 +65,6 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 #EXTINF:0,NIM TV
 #EXTGRP:unsorted
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
-#EXTINF:0,BARBE TV
-#EXTGRP:unsorted
-https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 #EXTINF:0,Vallenato Internacional
 #EXTGRP:unsorted
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
