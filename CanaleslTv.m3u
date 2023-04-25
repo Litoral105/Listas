@@ -62,12 +62,6 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:0,Imagen Universal
 #EXTGRP:unsorted
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:0,Saber Mas 
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermas-ono/2b4426fa-d4c2-4f33-964f-947ea5d69573/5.m3u8 
-#EXTINF:0,MEGA TV
-#EXTGRP:unsorted
-https://stmv.panel.grupolimalive.com:443/mega/mega/chunklist_w279347763.m3u8
 #EXTINF:0,NIM TV
 #EXTGRP:unsorted
 https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
