@@ -17,9 +17,6 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
 #EXTINF:0,MEMORIAS TV
 #EXTGRP:unsorted
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
-#EXTINF:0,CHIQUILINES
-#EXTGRP:unsorted
-https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
 #EXTINF:0,CANAL VENUS ( Musica)
 #EXTGRP:unsorted
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
