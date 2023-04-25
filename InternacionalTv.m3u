@@ -14,33 +14,12 @@ https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:0,SIN TV
 #EXTGRP:unsorted
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
-#EXTINF:0,ACCION
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230213cflbcm7ac1m2ulmlk2bg/1280x720_3071200_0_f.m3u8
-#EXTINF:0,COMEDIA
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230225cft9v605bmvk8t8kiat0/1280x720_3071200_0_f.m3u8
-#EXTINF:0,FAMILIA
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230225cfta0edescq2tlmm75d0/1280x720_3071200_0_f.m3u8
-#EXTINF:0, RUN : TIME TV PELICULAS
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230225cft9tri6hvolr1a6ladg/1280x720_3071200_0_f.m3u8
 #EXTINF:0,MEMORIAS TV
 #EXTGRP:unsorted
 https://mediacp.us:8081/8002/tracks-v1a1/mono.m3u8
-#EXTINF:0,FRECUENCIA MUSICAL TV
-#EXTGRP:unsorted
-https://cloud2.streaminglivehd.com:1936/8018/8018/chunklist_w1467610655.m3u8
-#EXTINF:0,VTV
-#EXTGRP:unsorted
-https://dw6a9whylepvl.cloudfront.net/hls/vtv_360.m3u8
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8
-#EXTINF:0,Canal 17 TV Nosara
-#EXTGRP:unsorted
-https://cloudvideo.servers10.com:8081/8092/tracks-v1a1/mono.m3u8
 #EXTINF:0,CANAL VENUS ( Musica)
 #EXTGRP:unsorted
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1667947927.m3u8
@@ -50,67 +29,19 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1921662267_b75
 #EXTINF:0,Oldies Hits
 #EXTGRP:unsorted
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
-#EXTINF:0,CANELA TV
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230302cg0gonvaim7bfle2g4gg/1280x720_3071200_0_f.m3u8
-#EXTINF:0,CINEMA
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230302cg0h0s3lbch0k8iepnng/1280x720_2300000_0_f.m3u8 
-#EXTINF:0,CINE REAL
+ #EXTINF:0,CINE REAL
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230224cfsjpqviu3jkm77oefq0/1920x1080_5824280_5_f.m3u8
 #EXTINF:0,TODO CINE
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230224cfsjtdc4fs1q19qim7e0/1920x1080_4403200_5_f.m3u8
-#EXTINF:0,CLASICO 
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230223cfrvbg9vdmlvbmnifug0/854x480_1355200_2_f.m3u8
-#EXTINF:0,NOVELAS
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230223cfrvn5opg57uvkhs06d0/1280x720_2300000_0_f.m3u8 
 #EXTINF:0,CON AMOR
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230224cfsk5a2a57gmvh1orv70/1280x720_2300000_0_f.m3u8
-#EXTINF:0,NOVELISIMA
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfs023h77uq8t0vm92kg/854x480_1355200_2_f.m3u8
-#EXTINF:0,CINE ROMANTICO 
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230302cg0hg3f8vhjcmrpuumn0/1280x720_2300000_0_f.m3u8
-#EXTINF:0,KIDS
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230223cfrvq92a1r1n9l8ocl5g/1920x1080_2900000_5_f.m3u8 
-#EXTINF:0,MUSIC
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfs1817daobp6qkn1r80/1280x720_2300000_0_f.m3u8
-#EXTINF:0,HITS
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfskbcje2i60sjl7h880/1280x720_3071200_0_f.m3u8
-#EXTINF:0,FLOW CARIBE
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfskfngpg57uvkht2rk0/1280x720_2300000_0_f.m3u8
-#EXTINF:0,HAZ CLIC
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfskl9descq2tlmkvob0/1280x720_2300000_0_f.m3u8
-#EXTINF:0,MUNDO PEQUEÑO
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfs062hpnj1sq312tsdg/1920x1080_2900000_5_f.m3u8
-#EXTINF:0,PLANETA DE AVENTURAS
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfskrrkrac105fgve0m0/1280x720_2300000_0_f.m3u8
-#EXTINF:0,TOON GOOGLE
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfskun64f66cpg07nvag/1280x720_2300000_0_f.m3u8
 EXTINF:0,AMOR PARA TODOS
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230302cg0hk5c2g2c9ajn6fk40/1280x720_1400000_1_f.m3u8 
-#EXTINF:0,RITMOS INOLVIDABLES
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfskd03aqhf9g4n2g5o0/1280x720_2300000_0_f.m3u8 
-#EXTINF:0,CINE KIDS
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfskebjlbchavkvq4okg/1920x1080_2900000_0_f.m3u8 
-#EXTINF:0,TASTEMADE  
+ #EXTINF:0,TASTEMADE  
 #EXTGRP:unsorted
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/1920x1080_5055600/index.m3u8 
 #EXTINF:0,ESTRELLA TV
@@ -122,18 +53,12 @@ https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0, Moonbug KidsL
 #EXTGRP:unsorted
 https://stream.ads.ottera.tv/cl/230224cfs08hqa1r1n9l8odj9g/1920x1080_2900000_5_f.m3u8
-#EXTINF:0,POP PEGAJOSO
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfshojmm618hro83jsng/854x480_550000_3_f.m3u8
 #EXTINF:0,SIN TV
 #EXTGRP:unsorted
 https://inliveserver.com:1936/19004/19004/chunklist_w989371519.m3u8
 #EXTINF:0,PRESENCIA TV
 #EXTGRP:unsorted
 https://tv.clientetvstudio.net:3158/hybrid/play.m3u8
-#EXTINF:0,COMBATE GLOBAL
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230302cg0gjfcuicnn67u81cm0/1280x720_2300000_0_f.m3u8
 #EXTINF:0,AMERICA TEVE
 #EXTGRP:unsorted
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w1865423036.m3u8
@@ -146,15 +71,6 @@ https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01
 #EXTINF:0,Movie Fe
 #EXTGRP:unsorted
 https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w2084540124.m3u8 
-#EXTINF:0,LIM
-#EXTGRP:unsorted
-https://live.limplay.ml/limtv.m3u8
-#EXTINF:0,DREIKO TV
-#EXTGRP:unsorted
-https://tv.fullhd-streaming.com:3807/live/dreikotvlive.m3u8
-#EXTINF:0, MAGIC KIDS
-#EXTGRP:unsorted
-https://tuvideoonline.com.ar:3937/stream/play.m3u8
 #EXTINF:0,TVC
 #EXTGRP:unsorted
 https://tv.clientetvstudio.net:3486/live/costatv1live.m3u8
