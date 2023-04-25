@@ -14,9 +14,6 @@ https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:0,PlanetaTV Music
 #EXTGRP:unsorted
 https://scl.edge.grupoz.cl/music/live/music.m3u8
-#EXTINF:0,CHIQUILINES
-#EXTGRP:unsorted
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-chiquilines-ono/a96c4191-82fc-450a-8aac-ccc5ec375b43/5.m3u8
 #EXTINF:0,STV El Canal Familiar
 #EXTGRP:unsorted
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8 
@@ -134,9 +131,6 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w1783023473.m3u8
 #EXTINF:0,ctv capricho
 #EXTGRP:unsorted
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w426532267.m3u8 
-#EXTINF:0,SEO TV
-#EXTGRP:unsorted
-https://seo.tv.bo/tv/q6SEO.m3u8 
 #EXTINF:0,SEO TV NOVELAS
 #EXTGRP:unsorted
 https://seo.tv.bo/tv/q3NVLS.m3u8 
