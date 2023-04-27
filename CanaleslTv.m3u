@@ -29,9 +29,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0,VariedT V
 #EXTGRP:unsorted
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8 
-#EXTINF:0,PlanetaTV Kids
-#EXTGRP:unsorted
-https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w1873823699.m3u8
 #EXTINF:0, Rakuten TV 
 #EXTGRP:unsorted
 http://rakuten-family-2-es.samsung.wurl.tv/playlist.m3u8
@@ -77,9 +74,6 @@ https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w325220262.m3u8
 #EXTINF:0,NTV Animacion
 #EXTGRP:unsorted
 https://marine2.miplay.cl/ntv/tracks-v1a1/mono.m3u8
-#EXTINF:0,Nicoya TV
-#EXTGRP:unsorted
-https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w1741745563.m3u8
 #EXTINF:0,Telesur
 #EXTGRP:unsorted
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1566131278.m3u8
