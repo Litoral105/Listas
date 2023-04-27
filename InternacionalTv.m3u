@@ -74,9 +74,6 @@ https://ss9.domint.net:3012/ttv_str/%20tigueritotv/playlist.m3u8
 #EXTINF:0,MONI TV 
 #EXTGRP:unsorted
 https://tv.streaming-chile.com:1936/ngencrcbyy/ngencrcbyy/playlist.m3u8
-#EXTINF:0,G
-#EXTGRP:unsorted
-http://xabarintv-r2-crtvg.flumotion.com/chunks.m3u8
 #EXTINF:0,DIBUJO
 #EXTGRP:unsorted
 http://deaplaneta-planetakidz-1-es.samsung.wurl.tv/playlist.m3u8
@@ -95,9 +92,6 @@ http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
 #EXTINF:0,THE RETRO CHANEL
 #EXTGRP:unsorted
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
-#EXTINF:0,LA MEGA MUNDIAL
-#EXTGRP:unsorted
-https://server40.servistreaming.com:3477/live/lamegamundiallive.m3u8
 #EXTINF:0,Panavision Tv
 #EXTGRP:unsorted
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1752131907.m3u8
