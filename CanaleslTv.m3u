@@ -59,9 +59,6 @@ https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
 #EXTINF:0,Imagen Universal
 #EXTGRP:unsorted
 https://imagenuniversaltv.net:3771/hybrid/play.m3u8
-#EXTINF:0,NIM TV
-#EXTGRP:unsorted
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:0,Vallenato Internacional
 #EXTGRP:unsorted
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
