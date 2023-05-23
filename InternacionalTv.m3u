@@ -23,18 +23,6 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1921662267_b75
 #EXTINF:0,Oldies Hits
 #EXTGRP:unsorted
 https://video01.logicahost.com.br/oldieshits/oldieshits/chunklist_w499173394.m3u8 
- #EXTINF:0,CINE REAL
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfsjpqviu3jkm77oefq0/1920x1080_5824280_5_f.m3u8
-#EXTINF:0,TODO CINE
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfsjtdc4fs1q19qim7e0/1920x1080_4403200_5_f.m3u8
-#EXTINF:0,CON AMOR
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfsk5a2a57gmvh1orv70/1280x720_2300000_0_f.m3u8
-EXTINF:0,AMOR PARA TODOS
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230302cg0hk5c2g2c9ajn6fk40/1280x720_1400000_1_f.m3u8 
  #EXTINF:0,TASTEMADE  
 #EXTGRP:unsorted
 https://tastemadees16intl-brightcove.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es16intl-brightcove/CDN/1920x1080_5055600/index.m3u8 
