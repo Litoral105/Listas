@@ -17,9 +17,6 @@ https://scl.edge.grupoz.cl/music/live/music.m3u8
 #EXTINF:0,STV El Canal Familiar
 #EXTGRP:unsorted
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8 
-#EXTINF:0,VM Latino
-#EXTGRP:unsorted
-https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:0,VariedT V
 #EXTGRP:unsorted
 https://6362ca6f1fc28.streamlock.net/8066/8066/playlist.m3u8 
