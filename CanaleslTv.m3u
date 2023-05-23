@@ -92,21 +92,7 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1462056568.m3u8
 #EXTINF:0,Vintage Music
 #EXTGRP:unsorted
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w1783023473.m3u8
-#EXTINF:0,SEO TV NOVELAS
-#EXTGRP:unsorted
-https://seo.tv.bo/tv/q3NVLS.m3u8 
-#EXTINF:0,SEO TV PELICULAS
-#EXTGRP:unsorted
-https://seo.tv.bo/tv/q4PE.m3u8
-#EXTINF:0,SEO KIDS
-#EXTGRP:unsorted
-https://seo.tv.bo/tv/q2KIDS.m3u8
-#EXTINF:0,CINE RAMA
-#EXTGRP:unsorted
-https://5d00db0e0fcd5.streamlock.net/7062/7062/chunklist_w1517585916.m3u8
-#EXTINF:0,Tvs
-#EXTGRP:unsorted
-https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
 
  
 
