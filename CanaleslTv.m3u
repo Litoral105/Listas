@@ -92,7 +92,11 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1462056568.m3u8
 #EXTINF:0,Vintage Music
 #EXTGRP:unsorted
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/chunklist_w1783023473.m3u8
-
-
+#EXTINF:0,VClassicTV Tropical
+#EXTGRP:unsorted
+https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1462056568.m3u8
+#EXTINF:0,Teleclasica
+#EXTGRP:unsorted
+https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
  
 
