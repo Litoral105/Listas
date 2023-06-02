@@ -29,9 +29,6 @@ https://estrellatv-plex.amagi.tv/playlistR1080p.m3u8
 #EXTINF:0,ESTRELLA GAME
 #EXTGRP:unsorted
 https://estrella-games-oando.amagi.tv/playlistR1080p.m3u8
-#EXTINF:0, Moonbug KidsL
-#EXTGRP:unsorted
-https://stream.ads.ottera.tv/cl/230224cfs08hqa1r1n9l8odj9g/1920x1080_2900000_5_f.m3u8
 #EXTINF:0,SIN TV
 #EXTGRP:unsorted
 https://inliveserver.com:1936/19004/19004/chunklist_w989371519.m3u8
