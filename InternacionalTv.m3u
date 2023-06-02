@@ -5,9 +5,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-distr
 #EXTINF:0,CHIQUILINES
 #EXTGRP:unsorted
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master_6.m3u8 
-#EXTINF:0,CINE CLUB
-#EXTGRP:unsorted
-https://servilive.com:3176/live/cineclublive.m3u8
 #EXTINF:0,SIN TV
 #EXTGRP:unsorted
 https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w616110367.m3u8
