@@ -52,6 +52,9 @@ https://imagenuniversaltv.net:3771/hybrid/play.m3u8
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 #EXTINF:0,Latino Kids TV 
 #EXTGRP:unsorted
+#EXTINF:0,Latino Kids TV
+#EXTGRP:unsorted
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
 https://6362ca6f1fc28.streamlock.net/8062/8062/chunklist_w325220262.m3u8
 #EXTINF:0,NTV Animacion
 #EXTGRP:unsorted
