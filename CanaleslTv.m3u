@@ -98,5 +98,7 @@ https://5eaccbab48461.streamlock.net:1936/8222/8222/chunklist_w1462056568.m3u8
 #EXTINF:0,Teleclasica
 #EXTGRP:unsorted
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
- 
+#EXTINF:0,VClassicTV
+#EXTGRP:unsorted
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w700827162.m3u8 
 
