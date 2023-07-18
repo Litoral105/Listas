@@ -101,12 +101,12 @@ https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF:0,VClassicTV
 #EXTGRP:unsorted
 https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist_w700827162.m3u8 
-#EXTINF:0,MI MUSICA REGGAETON
+#EXTINF:0,MIMUSICA REGGAETON
 #EXTGRP:unsorted
 http://181.78.12.119:16123/play/ch53/index.m3u8
-#EXTINF:0,MI MUSICA ROMANTICA
+#EXTINF:0,MIMUSICA ROMANTICA
 #EXTGRP:unsorted
 http://181.78.12.119:16123/play/ch54/index.m3u8
-#EXTINF:0,MI MUSICA SALSA
+#EXTINF:0,MIMUSICA SALSA
 #EXTGRP:unsorted
 http://181.78.12.119:16123/play/ch55/index.m3u8
