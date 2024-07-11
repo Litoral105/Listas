@@ -1,0 +1,32 @@
+{ 
+   "name": "w3u list",
+   "author": "w3u author",
+   "url": "",
+   "image": "",
+   "contact": "w3u@testmail.com",
+   "info": "Test Channel",
+   "groups": [ 
+      { 
+         "name": "Live",
+         "image": "https://i.imgur.com/WP7j2dX.png",
+         "stations": [ 
+            { 
+               "name": "LIGA 1 Max",
+               "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJZcfPxdSAAfcMcYnI42JrYN62SF6xaJ0cpIKLWARnOCWAAiknvU2QFMIbzL-GbzUtUoBeiAw5XJLRcGX1BG52OllMJZuT9C95GxnMxI8lmGchWhEATVK7z0H6Qo7CgBZKpMn89c_nzoLyjJkPLjDfRqiuM3ZUL61aI9vzcE6FzKXA-b8rkPIBVEo7dM/w72-h72-p-k-no-nu/Liga%201%20Max.webp",
+               "url": "https://betzta.com/canales.php?stream=l1max"
+               "embed": true
+            },
+            { 
+               "name": "",
+               "image": "",
+               "url": "https://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8"
+               "embed": true
+            },
+            {
+               "name": "",
+               "image": "",
+               "url": "http://clappr.io/demo/",
+               "embed": true
+            }
+  ]
+}
