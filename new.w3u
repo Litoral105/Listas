@@ -8,41 +8,138 @@
   "contact": "https://www.tdtchannels.com/",
   "groups": [
     {
-      "name": "Generalistas",
-      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
+      "name": "PERÚ",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Marca_Per%C3%BA.jpg",
       "stations": [
         {
-          "name": "LIGA 1 Max",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUJZcfPxdSAAfcMcYnI42JrYN62SF6xaJ0cpIKLWARnOCWAAiknvU2QFMIbzL-GbzUtUoBeiAw5XJLRcGX1BG52OllMJZuT9C95GxnMxI8lmGchWhEATVK7z0H6Qo7CgBZKpMn89c_nzoLyjJkPLjDfRqiuM3ZUL61aI9vzcE6FzKXA-b8rkPIBVEo7dM/w72-h72-p-k-no-nu/Liga%201%20Max.webp",
-          "url": "https://betzta.com/canales.php?stream=l1max",
-          "epgId": "",
-          "embed": "true"
-        },
-        {
-          "name": "DSports",
-          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaB_WKDYfq5FfYa2xHJJxfzrKFi1lzBMfT3wkFUQsbwPaiW7mQBXXq513xeBqk6UataMm6e4ul2OHXzupfLQECVMrpb1KS6zsgIf7MbVkggjox0-jKNXD3l0iRLJBCJ1JwTxuF6Wjlv4WjFwCGN2iN_nNsPKak10iHeeB8LyWCJnPj8crcSajiHsSUBSI/w72-h72-p-k-no-nu/DSPORTS.jpg,
-          "url": "https://sv1.streamtp.live/global1.php?stream=dsports",
-          "epgId": "",
-          "embed": "true"
-        },
-        {
-          "name": "GOLPERU",
+          "name": "TV 1",
           "image": "",
           "url": "",
           "epgId": "",
           "embed": "true"
         },
         {
-          "name": "laSexta",
-          "image": "https://graph.facebook.com/laSexta/picture?width=200&height=200",
-          "url": "https://www.atresplayer.com/directos/lasexta/",
-          "epgId": "LaSexta.TV",
+          "name": "TV 2",
+          "image": "",
+          "url": "",
+          "epgId": "",
           "embed": "true"
         },
         {
-          "name": "3ABN USA EN",
-          "image": "https://graph.facebook.com/3abn.org/picture?width=200&height=200",
-          "url": "https://3abn-live.akamaized.net/hls/live/2010543/3ABN/master.m3u8"
+          "name": "TV 3",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 4",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "DEPORTES",
+      "image": "https://e7.pngegg.com/pngimages/846/645/png-clipart-sport-management-logo-football-material-sport-happy-birthday-vector-images.png",
+      "stations": [
+        {
+          "name": "TV 1",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 2",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 3",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 4",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "OTROS 3",
+      "image": "",
+      "stations": [
+        {
+          "name": "TV 1",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 2",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 3",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 4",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        }
+      ]
+    },
+    {
+      "name": "OTROS 4",
+      "image": "",
+      "stations": [
+        {
+          "name": "TV 1",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 2",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 3",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "TV 4",
+          "image": "",
+          "url": "",
+          "epgId": "",
+          "embed": "true"
         }
       ]
     }
