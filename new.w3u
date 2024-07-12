@@ -12,18 +12,16 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Marca_Per%C3%BA.jpg",
       "stations": [
         {
-          "name": "TV 1",
-          "image": "",
-          "url": "",
-          "epgId": "",
-          "embed": "true"
+          "name": "América",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA-big4fNOtBSzHm2T0Z65k_MRQ7BVj8h68hB040svLkUXWzNaVLCcWHJAdGqeJKYWlEm37rgv8JsM91f6yLZVSe0DWpYyWHYkzYXL3BOg2S4q9bScLOJu5o6A_AR_gaQmwMe-9_f2tJoscqD0bLfuM0TgbmWaSjflUdvta3DZWGr16-1Wqe-qpR44PIY/w72-h72-p-k-no-nu/AMERICA.webp",
+          "url": "https://americatv-ecdn3.cdn.mdstrm.com/live-stream-dai/6099b04d9418ac082441dd74/d302a65b304245a1a63015260288df35/f624fec49dadc88894ebeff1d974eab019af7757/session/79e4385c-3840-48c8-ae7a-83a6753af5f2/media.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=8xb1hcw5mvi040srfuucgeiapnf9mboa&sid=zm3jzndmgafa7vvdjjtbaync3udpniku&pid=o6lfumkdz6bvwmz5lw0pzo3dcruqrsnx&ref=https%3a%2f%2ftvgo.americatv.com.pe%2f%3futm_source%3dtvgo%26utm_medium%3dlanding-copa-america%26utm_campaign%3dcopa-america%26utm_content%3d%26utm_term%3d&without_cookies=false&listenerid=&dnt=true&access_token=gvz241atrroglpmbzonz1sehvtvxs6yum4gnvdxjxzv1udcgmtm0qsntw5v2fy6npohttadkzpd&es=americatv-ecdn3.cdn.mdstrm.com&proto=https&pz=us&hash=0717a390ef4175b851445",
+          "epgId": ""
         },
         {
-          "name": "TV 2",
-          "image": "",
-          "url": "",
-          "epgId": "",
-          "embed": "true"
+          "name": "Latina",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj85fr3Zyve8zQ2WMrXHYdE5QP6S7KysB1-jXTmFgvwyYosOhxLXYGfi-04Oc8_ANPEWegfe60sNubOfz04w-HAYpJBLmXcgTxZqtTRp3xEIYJNSNFERIaiboVgRdjbrJm8tXjRS7PItSAEbuMHqRt8sZoBam6_m6MXqx149DU36l4rBKKUdXnBO1bT4I/w72-h72-p-k-no-nu/LATINA.webp",
+          "url": "https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8",
+          "epgId": ""
         },
         {
           "name": "TV 3",
