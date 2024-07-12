@@ -31,6 +31,18 @@
           "embed": "true"
         },
         {
+          "name": "ATV",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii1NQNFcwINd7As1PFaTkv8XcdOO_CifGzHgcMoVEwQAWHRT9Tk5SFOSUeFh_2jSkFhCYTLqkU2GeRi5QBExm3sfh5d-WHzYSiyLkPQASLRPrLwRFQ8uv5UcM8CVeOnwtt9ivXFLVXGCG5ruSsGlNYdGXn4LrhqDgsWueIjI61j4dl7MUIbxPcPZlC3mg/w72-h72-p-k-no-nu/ATV.webp",
+          "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
+          "epgId": ""
+        },
+        {
+          "name": "ATV+",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpyJ9-H98pbmqMreW6dBDx28C-4Wpl_8CKNvLdfM7gb_YH9Yrl7rqfJRE-CJl5CQwuJM6vUHfRgfpChLPowSppra3gEGq-x3qcl9_hj77zJBYOWB5VDxeztujYZztMupPmJqiFvBM0f1_EmqF5N1gWJcboX81lvPhoqih_IgGlqz4E0JGGWxgG5ACCcY/w72-h72-p-k-no-nu/ATV+.webp",
+          "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+          "epgId": ""
+        },
+        {
           "name": "Willax",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzWotfCtj3MffFQk6eHyjYrYbmYGiekH1LpCjGXhlaQjDATQVjzLnGgG3mLuawvUx-epjIqGyLOXS5q0KNmDHRxIgAptWubEp5h4xCYNeq8WVfty3PEEPJeAJGaWNbFvWECeaPVHjZ_rYyVMMDAOpQxvSTA70pL4_M2ljteq53s3rIMst8bruXzNBXZI/w72-h72-p-k-no-nu/WILLAX.webp",
           "url": "https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1",
