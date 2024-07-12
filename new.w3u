@@ -1,0 +1,52 @@
+{
+  "name": "TDTChannels - TV (755)",
+  "author": "TDTChannels",
+  "url": "https://www.tdtchannels.com/lists/tv.w3u",
+  "epg": "https://www.tdtchannels.com/epg/TV.xml.gz",
+  "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
+  "info": "Tu plataforma online para ver la televisi\u00f3n y radio en abierto, legal y gratuita!",
+  "contact": "https://www.tdtchannels.com/",
+  "groups": [
+    {
+      "name": "Generalistas",
+      "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/groups/Generalistas.png",
+      "stations": [
+        {
+          "name": "Antena 3",
+          "image": "https://graph.facebook.com/antena3/picture?width=200&height=200",
+          "url": "https://www.atresplayer.com/directos/antena3/",
+          "epgId": "Antena3.TV",
+          "embed": "true"
+        },
+        {
+          "name": "Cuatro",
+          "image": "https://graph.facebook.com/cuatro/picture?width=200&height=200",
+          "url": "https://www.mitele.es/directo/cuatro",
+          "epgId": "Cuatro.TV",
+          "embed": "true"
+        },
+        {
+          "name": "Telecinco",
+          "image": "https://graph.facebook.com/tele5/picture?width=200&height=200",
+          "url": "https://www.mitele.es/directo/telecinco",
+          "epgId": "Telecinco.TV",
+          "embed": "true"
+        },
+        {
+          "name": "laSexta",
+          "image": "https://graph.facebook.com/laSexta/picture?width=200&height=200",
+          "url": "https://www.atresplayer.com/directos/lasexta/",
+          "epgId": "LaSexta.TV",
+          "embed": "true"
+        },
+        {
+          "name": "Neox",
+          "image": "https://graph.facebook.com/neox/picture?width=200&height=200",
+          "url": "https://www.atresplayer.com/directos/neox/",
+          "epgId": "Neox.TV",
+          "embed": "true"
+        }
+      ]
+    }
+  ]
+}
