@@ -1,11 +1,11 @@
 {
-  "name": "TV STREAMING",
-  "author": "Channels",
-  "url": "",
+  "name": "TDTChannels - TV (755)",
+  "author": "TDTChannels",
+  "url": "https://www.tdtchannels.com/lists/tv.w3u",
   "epg": "https://www.tdtchannels.com/epg/TV.xml.gz",
-  "image": "",
-  "info": "",
-  "contact": "",
+  "image": "https://raw.githubusercontent.com/LaQuay/TDTChannels/master/img/logo.png",
+  "info": "Tu plataforma online para ver la televisi\u00f3n y radio en abierto, legal y gratuita!",
+  "contact": "https://www.tdtchannels.com/",
   "groups": [
     {
       "name": "Generalistas",
