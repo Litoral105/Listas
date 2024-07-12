@@ -24,9 +24,16 @@
           "epgId": ""
         },
         {
-          "name": "TV 3",
-          "image": "",
-          "url": "",
+          "name": "Panamericana",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxKflMww-dAuCllZD-ihCXtl8mkNhdus6V4wudxIULahVxpJeKLvdCx6pRgLBVW6wpnr5juFlNAXMEkvvkv_RT3VnMaGE_rdsp1z8tPaIBNREJBKdFjIRas1TfolagcNVwfXrhQjBCwbuFHPKgSunjhopbEEioaqkHRmVf9qolZONyAtIZty86i2jolQE/w72-h72-p-k-no-nu/panamericana.webp",
+          "url": "https://www.goltvgo.com/canalestv.php?get=aHR0cHM6Ly9saXZlLWV2ZzQudHYzNjAuYml0ZWwuY29tLnBlL2JpdGVsL3BhbmFtZXJpY2FuYS9wbGF5bGlzdC5tM3U4P21hbmlmZXN0ZmlsdGVyPXZpZGVvX2JpdHJhdGU6MS00MTk0MzA0JnVpZD03NDUzMA==",
+          "epgId": "",
+          "embed": "true"
+        },
+        {
+          "name": "Willax",
+          "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzWotfCtj3MffFQk6eHyjYrYbmYGiekH1LpCjGXhlaQjDATQVjzLnGgG3mLuawvUx-epjIqGyLOXS5q0KNmDHRxIgAptWubEp5h4xCYNeq8WVfty3PEEPJeAJGaWNbFvWECeaPVHjZ_rYyVMMDAOpQxvSTA70pL4_M2ljteq53s3rIMst8bruXzNBXZI/w72-h72-p-k-no-nu/WILLAX.webp",
+          "url": "https://www.dailymotion.com/embed/video/x7x4dgx?autoplay=1",
           "epgId": "",
           "embed": "true"
         },
